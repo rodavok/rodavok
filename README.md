@@ -1,3 +1,3 @@
-Currently working on a masters in Data Science at SUNY Buffalo. <br>
+MPS in Data Science from SUNY Buffalo. <br>
 Skilled in Python, R, and SQL. <br>
-Professionally involved in financial crimes analysis. <br>
+Interested in data analytics, visualization, and machine learning, <br>
